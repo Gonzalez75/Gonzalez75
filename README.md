@@ -7,6 +7,7 @@ Junior Full Stack Developer
 I have been studying and applying technology projects for 2 years. I started with C# and I'm already studying about new technologies to always improve my projects more
 
 * 🌍  I'm based in Santos, São Paulo, Brazil
+* 🖥️  See my portfolio at [Still in development, in a while it will be ready](http://a)
 * ✉️  You can contact me at [guilherme75gonzalez@gmail.com](mailto:guilherme75gonzalez@gmail.com)
 * 🧠  I'm learning Java, Html, CSS, JavaScript, Node, Angulas and React
 * 🤝  I'm open to collaborating on Full Stack projects
