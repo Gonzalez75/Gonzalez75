@@ -1,7 +1,7 @@
 Hi 👋 My name is Guilherme Gonzalez
 ===================================
 
-Junior Full Stack Developer
+Junior Developer
 ---------------------------
 
 I have been studying and applying technology projects for 2 years. I started with C# and I'm already studying about new technologies to always improve my projects more
