@@ -9,7 +9,7 @@ I have been studying and applying technology projects for 2 years. I started wit
 * 🌍  I'm based in Santos, São Paulo, Brazil
 * 🖥️  See my portfolio at [Still in development, in a while it will be ready](http://a)
 * ✉️  You can contact me at [guilherme75gonzalez@gmail.com](mailto:guilherme75gonzalez@gmail.com)
-* 🧠  I'm learning Java, Html, CSS, JavaScript, Node, Angulas and React
+* 🧠  I'm learning Java, Html, CSS, JavaScript, Node, Angular and React
 * 🤝  I'm open to collaborating on Full Stack projects
 * ⚡  A curiosity of mine is that I really like to read the codes and understand what each code does
 
