@@ -7,10 +7,10 @@ Desenvolvedor Front-End Júnior
 I have been studying and applying technology projects for 2 years. I started with C# and I'm already studying about new technologies to always improve my projects more
 
 *   🌍  I'm based in Santos, São Paulo, Brazil
-*   🖥️  See my portfolio at [See my portfolio at](http://Still in development, in a while it will be ready)
-*   ✉️  You can contact me at [You can contact me at guilherme75gonzalez@gmail.com](mailto: You can contact me at guilherme75gonzalez@gmail.com)
-*   🧠  I'm learning I'm learning React, TypeScript, Java, C#, Node and SQLServer
-*   🤝  I'm open to collaborating on I'm open to collaborating on Full Stack projects### Skills 
+*   🖥️  See my portfolio at (Still in development, in a while it will be ready)
+*   ✉️  You can contact me at guilherme75gonzalez@gmail.com
+*   🤝  I'm open to collaborating on I'm open to collaborating on Full Stack projects
+*   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -22,10 +22,9 @@ I have been studying and applying technology projects for 2 years. I started wit
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
                     
-                  ### Socials
+            
                   
-                  
-                <p align="left">
+  <p align="left">
                           
                       <a href="https://www.github.com/Gonzalez75" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
