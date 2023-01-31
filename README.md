@@ -9,7 +9,7 @@ I have been studying and applying technology projects for 2 years. I started wit
 *   🌍  I'm based in Santos, São Paulo, Brazil
 *   🖥️  See my portfolio at (Still in development, in a while it will be ready)
 *   ✉️  You can contact me at guilherme75gonzalez@gmail.com
-*   🤝  I'm open to collaborating on I'm open to collaborating on Full Stack projects
+*   🤝  I'm open to collaborating on Full Stack projects
 * ### Skills
 
 <p align="left">
