@@ -8,6 +8,7 @@ Currently, I am immersed in daily challenges that allow me to explore and expand
 In addition to my day-to-day work as a Systems Analyst, I am constantly learning through personal projects, specialized courses, and industry events.
 
 💻 Technologies I Use
+
 React
 
 C#
