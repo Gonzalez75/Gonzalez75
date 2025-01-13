@@ -12,8 +12,10 @@ React
 C#
 JavaScript
 .NET
+
 🌱 Always Learning
 I’m always looking to expand my knowledge and grow in the tech world. If you have any collaboration or learning opportunities, I’m open to new ideas and projects!
 
-📫 Get in Touch
-LinkedIn
+📫 Linkedin
+[LinkedIn
+](https://www.linkedin.com/in/gonzalez75/)
