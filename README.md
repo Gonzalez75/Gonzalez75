@@ -48,6 +48,6 @@ Outros projetos estão disponíveis nos repositórios abaixo.
 
 📫 Contato
 
-LinkedIn
+https://www.linkedin.com/in/gonzalez75/
 
-Email: seuemail@exemplo.com
+Email: gonzalezdev75@gmail.com
