@@ -9,7 +9,7 @@ Sou um desenvolvedor de software de 22 anos, com experiência em projetos corpor
 
 Front-end: React, JavaScript, TypeScript, Angular, HTML, CSS, Bootstrap
 
-Back-end: Node.js, C#, Centura
+Back-end: Node.js, C#
 
 Banco de Dados: MySQL, SQL Server
 
