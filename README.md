@@ -1,53 +1,31 @@
-Guilherme Gonzalez 👋
+# Guilherme Gonzalez
 
-💻 Desenvolvedor de Software | React, Node.js, TypeScript | ERP & Aplicações Web
-📍 Santos, São Paulo, Brasil
+**Desenvolvedor Full Stack** · React, TypeScript, Node.js, PostgreSQL · Santos, SP
 
-Sou um desenvolvedor de software de 22 anos, com experiência em projetos corporativos e freelancers, focado no desenvolvimento de aplicações web e manutenção de sistemas ERP. Tenho sólida experiência com React, TypeScript, Node.js e bancos de dados relacionais, buscando sempre criar soluções escaláveis, performáticas e bem estruturadas.
+Tenho 23 anos e 4 anos de experiência com desenvolvimento. Hoje estou no **Método 12P**, onde montei do zero o departamento de tecnologia: contratei 4 desenvolvedores, lidero a área e continuo no código, construindo sistemas web internos da modelagem de dados ao deploy.
 
-🛠 Tecnologias e Skills
+- Mais de 2.300 testes automatizados (Vitest) e telas críticas até 83% mais rápidas
+- Integrações com APIs REST e GraphQL, serviços de IA, mensageria e e-mail
+- Desenvolvimento assistido por IA (Claude Code) com processo: requisito validado e mudança documentada antes de executar, e nada vai para o banco de produção sem revisão humana
 
-Front-end: React, JavaScript, TypeScript, Angular, HTML, CSS, Bootstrap
+## Stack
 
-Back-end: Node.js, C#
+- **Front-end:** React, TypeScript, JavaScript, Angular, Vite, Tailwind CSS, PWA
+- **Back-end:** Node.js, Express, APIs REST, GraphQL, C#
+- **Banco de dados:** PostgreSQL, Supabase, SQL Server
+- **Qualidade e ferramentas:** Vitest, Testing Library, Git, Vercel, Render, Claude Code
 
-Banco de Dados: MySQL, SQL Server
+## Experiência
 
-Outros: Git, REST APIs, Testes de Software, Boas Práticas de Desenvolvimento
+- **Método 12P**, Desenvolvedor Full Stack (out/2025 – atual)
+- **Target Sistemas**, Analista de Sistemas (mai/2023 – out/2025): ERP em C#, Centura e SQL Server, com telas em Angular
+- **Grão de Gente**, Estagiário de Desenvolvimento (out/2022 – jan/2023)
 
-💼 Experiência
+## Projetos
 
-Target Sistemas – Analista de Sistemas (mai/2023 – out/2025)
+- **Check Diário** (pessoal, em produção): PWA de hábitos, treino e finanças com React 19, Vite, Tailwind e Supabase. Importação de extratos OFX/CSV, IA com cota e confirmação do usuário, relatórios em PDF e 796 testes automatizados. Repositório privado.
+- **[RevivaSenior](https://github.com/Gonzalez75/RevivaSenior)** (freelancer): sistema web para gestão de informações de residentes idosos, com Node.js, React e MySQL.
 
-Manutenção e evolução do ERP da empresa
+## Contato
 
-Desenvolvimento de novas telas e funcionalidades
-
-Participação em todo o ciclo de desenvolvimento, garantindo estabilidade e performance
-
-Grão de Gente – Estagiário de Desenvolvimento (out/2022 – jan/2023)
-
-Desenvolvimento de interfaces e manutenção de aplicações internas
-
-Testes de software e documentação de processos
-
-📂 Projetos
-Residencial Reviva Sênior (Freelancer)
-
-Sistema web para gestão de informações de idosos (CRUD completo).
-
-Stack: Node.js (API), React + JavaScript (Front-end), MySQL (Banco de dados)
-
-Descrição: Centralização de informações de residentes para facilitar o acesso e organização.
-
-Observação: Os idosos exibidos nas imagens são meramente ilustrativos.
-
-Extras: Sugestão de futuras melhorias como relatórios automatizados e integração com módulos de saúde.
-
-Outros projetos estão disponíveis nos repositórios abaixo.
-
-📫 Contato
-
-https://www.linkedin.com/in/gonzalez75/
-
-Email: gonzalezdev75@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gonzalez75/) · gonzalezdev75@gmail.com
